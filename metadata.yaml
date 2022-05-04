@@ -1,0 +1,40 @@
+_repo: Frammenti-letterari-e-filosofici_67931
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Solmi, Edmondo
+    gutenberg_agent_id: '54539'
+    url: http://www.gutenberg.org/2009/agents/54539
+creator:
+  author:
+    agent_name: Leonardo, da Vinci
+    aliases:
+    - Vinci, Leonardo da
+    - Da Vinci, Leonardo
+    - Vinci, Léonard de
+    birthdate: 1452
+    deathdate: 1519
+    gutenberg_agent_id: '1629'
+    url: http://www.gutenberg.org/2009/agents/1629
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    - https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67931'
+language: it
+pgterms:marc904: https://archive.org/details/LeonardoFrammenti
+pgterms:marc905: 20191229064744vinci
+pgterms:marc906: '1908'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :G. Barbera,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Frammenti letterari e filosofici
+url: http://www.gutenberg.org/ebooks/67931
