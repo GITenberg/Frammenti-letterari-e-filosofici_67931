@@ -5,6 +5,9 @@ contributor:
     agent_name: Solmi, Edmondo
     gutenberg_agent_id: '54539'
     url: http://www.gutenberg.org/2009/agents/54539
+covers:
+- cover_type: archival
+  image_path: 67931-h/images/cover.jpg
 creator:
   author:
     agent_name: Leonardo, da Vinci
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Leonardo_da_Vinci
     - https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67931#Frammenti-letterari-e-filosofici
 gutenberg_issued: '2022-04-26'
 identifiers:
   gutenberg: '67931'
